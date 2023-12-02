@@ -1,12 +1,9 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
+Wordle Clone
+Practicing basic OOP concepts and Java by creating a clone of the popular game Wordle
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+This project was done as part of a personal project to learn programming. All the files labled testDrivers were used to individually test the classes Board, ToDoWithWords, and GameLogic.
+
+Running instructions(for mac):
+1. Clone the repository onto a directory.
+2. Type "java Game" into terminal
+3. Follow the instructions and enjoy! :)
