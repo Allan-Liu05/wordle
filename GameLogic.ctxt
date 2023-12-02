@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=GameLogic
+comment0.text=\n\ Write\ a\ description\ of\ class\ GameLogic\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=GameLogic()
+comment2.params=gWord
+comment2.target=boolean\ guessWordLengthInvalid(java.lang.String)
+comment3.params=gWord
+comment3.target=boolean\ guessWordNoNumber(java.lang.String)
+comment4.params=gWord
+comment4.target=boolean\ guessWordNotSpecial(java.lang.String)
+comment5.params=gGuess
+comment5.target=boolean\ isValid(java.lang.String)
+comment6.params=
+comment6.target=void\ getWhitespace()
+comment7.params=checkWin
+comment7.target=boolean\ didIWin(java.lang.String)
+comment8.params=gGuess
+comment8.target=boolean\ isNumber(java.lang.String)
+numComments=9
